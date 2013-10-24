@@ -4,7 +4,7 @@ class HelloWorld
 {
     public function getHiAtoum ($name="World")
     {
-        return 'Hi atoum !';
+        return 'Hello'.$name.' !';
     }
 }
 ?>
