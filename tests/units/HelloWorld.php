@@ -11,7 +11,7 @@ use \recette;
 
 class HelloWorld extends atoum\test
 {
-    public function testSay()
+    public function testGetName()
     {
         $helloWorld = new \HelloWorld();
 
