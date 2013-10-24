@@ -13,7 +13,7 @@ class Ingredient extends atoum\test
 {
     public function testGetName()
     {
-        $ingredient = new \ingredients();
+        $ingredient = new \ingredient();
 
         
     }
